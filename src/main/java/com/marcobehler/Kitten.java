@@ -33,6 +33,9 @@ public class Kitten {
     public void hopOnKeyboard() {
         System.out.println("hopping on your keyboard..");
     }
+    public void feature2() {
+        System.out.println("todo");
+    }
     public void bugfix(String todo) {
         System.out.println("todo");
     }
